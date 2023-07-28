@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "It works fine!"
+echo "(test) It works fine!"

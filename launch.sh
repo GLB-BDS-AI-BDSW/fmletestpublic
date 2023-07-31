@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "(main) It works fine!"
+echo "(main) It works just fine!"

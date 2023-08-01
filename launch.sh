@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "(test) It works fine!"
+echo "(test commit1) It works fine!"

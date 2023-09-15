@@ -1,2 +1,2 @@
 #!/bin/bash 
-echo "(test) this is an alternative launch script"
+echo "(test_26894) this is an alternative launch script"
